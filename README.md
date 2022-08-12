@@ -2,6 +2,14 @@
 
 This project is made by using some basic react 
 
+You can convert your words in `UPPERCASE` and `LOWERCASE`
+
+Get to know how many `words` and `chracters` are their in your paragraph
+
+And you also get to know that how much time it would take you to read your paragraph
+
+You also have a `preview` available.
+
 ##  Installation
  Type in your terminal or cmd
  
