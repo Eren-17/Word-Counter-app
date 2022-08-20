@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Counter-app/static/css/main.abd64e84.css",
+    "main.js": "/Word-Counter-app/static/js/main.73311cfd.js",
+    "static/js/787.7d6d6079.chunk.js": "/Word-Counter-app/static/js/787.7d6d6079.chunk.js",
+    "index.html": "/Word-Counter-app/index.html",
+    "main.abd64e84.css.map": "/Word-Counter-app/static/css/main.abd64e84.css.map",
+    "main.73311cfd.js.map": "/Word-Counter-app/static/js/main.73311cfd.js.map",
+    "787.7d6d6079.chunk.js.map": "/Word-Counter-app/static/js/787.7d6d6079.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.73311cfd.js"
+  ]
+}
