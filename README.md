@@ -29,4 +29,8 @@ You also have a `preview` available.
  
  If that is not working for ya'll open your default browser and type`localhost:3000` in it
  
+ ## IF YOU WANT TO SAVE TIME
+ ### GO TO THIS LINK DIRECTLY `https://eren-17.github.io/Word-Counter-app/`
+ 
+ 
  # ENJOY AND PLAY :)
